@@ -6,6 +6,7 @@ def max_value(numbers):
         if number > max: 
             max = number
     return max
+    print("This message is just a message.")
 
 
 if __name__ == "__main__":
